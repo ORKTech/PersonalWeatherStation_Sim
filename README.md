@@ -5,6 +5,9 @@ A project developed by Team Nano Bugs at the Elenxia Hackathon (MIT-WPU) under t
 
 This simulator mimics a personal weather station by generating random temperature and humidity data, displaying live readings on a clean interface, and triggering alerts when conditions go beyond the “comfortable” range (e.g., temperature above 30°C).
 
+![IMG-20250920-WA0007](https://github.com/user-attachments/assets/5426c8f6-a55d-4426-a5b4-47057c00c072)
+
+
 🔹 Features
 
 Real-time temperature & humidity simulation
