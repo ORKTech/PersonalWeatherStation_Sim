@@ -13,6 +13,8 @@ Interactive dashboard with live data updates
 
 Alerts & warnings for out-of-range values
 
+POST(to check all sensors are working)
+
 Built with scalability in mind → can be extended to connect with real IoT sensors in the future
 
 
