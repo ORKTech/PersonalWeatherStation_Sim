@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/20886f4a-246d-4532-8f24-e9afc0c11bd4
 # PersonalWeatherStation_Sim
 🌦️ Personal Weather Station Simulator
 
@@ -8,22 +10,25 @@ This simulator mimics a personal weather station by generating random temperatur
 Splash Screen:
 ![IMG-20250920-WA0007](https://github.com/user-attachments/assets/5426c8f6-a55d-4426-a5b4-47057c00c072)
 
+
 POST:
 ![IMG-20250920-WA0006](https://github.com/user-attachments/assets/45cc6bb6-d81c-4f75-8cec-2022f3314755)
+
 
 Dashboard:
 ![IMG-20250920-WA0008](https://github.com/user-attachments/assets/7cc100c4-14fd-4a0b-b2b2-5b22905ccdb8)
 
+
 Sensor Error Display:
 ![IMG-20250920-WA0005](https://github.com/user-attachments/assets/1a065a39-9c4e-485e-aa80-b502b442cebb)
 
+
 Video demo of sensor error:
-
-
 https://github.com/user-attachments/assets/17c09c47-5e0f-4b07-b009-aa643c9d0054
 
-Video demo of dashboard:
 
+Video demo of dashboard:
+https://github.com/user-attachments/assets/44e5659c-9bc0-4d4b-aecc-070c10e2c102
 
 
 🔹 Features
